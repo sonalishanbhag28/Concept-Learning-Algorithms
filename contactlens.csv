@@ -1,0 +1,25 @@
+Age Group,Spectacle Prescription,Astigmatic,Tear Production Rate,Contact Lenses
+pre-presbyopic,myope,yes,normal,yes
+young,myope,no,reduced,no
+young,hypermetrope,no,normal,yes
+presbyopic,myope,yes,normal,yes
+young,hypermetrope,yes,reduced,no
+presbyopic,myope,yes,reduced,no
+pre-presbyopic,myope,no,normal,yes
+pre-presbyopic,hypermetrope,yes,normal,no
+presbyopic,hypermetrope,no,reduced,no
+young,myope,yes,reduced,no
+presbyopic,hypermetrope,yes,normal,no
+presbyopic,hypermetrope,no,normal,yes
+pre-presbyopic,hypermetrope,yes,reduced,no
+young,hypermetrope,yes,normal,yes
+pre-presbyopic,myope,yes,reduced,no
+young,myope,yes,normal,yes
+young,hypermetrope,no,reduced,no
+pre-presbyopic,hypermetrope,no,normal,yes
+presbyopic,myope,no,reduced,no
+young,myope,no,normal,yes
+pre-presbyopic,myope,no,reduced,no
+presbyopic,hypermetrope,yes,reduced,no
+pre-presbyopic,hypermetrope,no,reduced,no
+presbyopic,myope,no,normal,no
